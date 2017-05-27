@@ -4,6 +4,7 @@
       "arrow-body-style": 0,
       "react/sort-comp": 0,
       "no-unused-expressions": 0,
-      "generator-star-spacing": 0
+      "generator-star-spacing": 0,
+      "prefer-const":0
   }
 }
